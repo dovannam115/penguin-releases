@@ -1,4 +1,4 @@
-# Agent P — Releases
+# Agent P Releases
 
 Release zips for [Agent P](https://github.com/dovannam115/agent-p-releases), the distributed multi-agent workspace.
 
