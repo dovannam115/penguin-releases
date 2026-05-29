@@ -1,6 +1,6 @@
 # Penguin App Releases
 
-Release zips for [Agent P](https://github.com/dovannam115/penguin-releases), the distributed multi-agent workspace.
+Release zips for [Penguin](https://github.com/dovannam115/penguin-releases), the distributed multi-agent workspace.
 
 Inside the app: **Settings → Update → Check now** to install the latest release.
 
